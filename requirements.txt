@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+tiktoken
+scikit-learn
+openai == 0.28.1
+faiss-cpu
