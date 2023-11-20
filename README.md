@@ -6,7 +6,7 @@ Uses FAISS and OpenAI embeddings for data vectorisation , scikit learn for a cos
 
 Installation
 
--Populate the training data.csv with email/message and answer pairs that you want to base responses on or alternatively  sections of your contract/award.
+-Populate the HR_training_data.csv with email/message and answer pairs that you want to base responses on or alternatively use sections of your contract/award.
 
 -insert your OpenAI API key on the .env file
 
